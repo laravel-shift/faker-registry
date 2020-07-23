@@ -3,7 +3,7 @@
 namespace Tests\Unit;
 
 use PHPUnit\Framework\TestCase;
-use Shift\Registry;
+use Shift\Faker\Registry;
 
 /**
  * @covers \Blueprint\Generators\FactoryGenerator

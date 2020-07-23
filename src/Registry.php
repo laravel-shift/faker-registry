@@ -1,10 +1,9 @@
 <?php
 
-namespace Shift;
+namespace Shift\Faker;
 
 class Registry
 {
-
     public static function fakerData(string $name)
     {
         static $fakeableNames = [

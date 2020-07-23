@@ -15,7 +15,7 @@
     },
     "autoload": {
         "psr-4": {
-            "Shift\\": "src/"
+            "Shift\\Faker\\": "src/"
         }
     },
     "autoload-dev": {
