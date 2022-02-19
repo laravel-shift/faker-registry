@@ -59,6 +59,7 @@ class Registry
             'double' => 'randomFloat(/** double_attributes **/)',
             'enum' => 'randomElement(/** enum_attributes **/)',
             'float' => 'randomFloat(/** float_attributes **/)',
+            'fulltext' => 'text',
             'geometry' => 'word',
             'geometrycollection' => 'word',
             'guid' => 'uuid',
