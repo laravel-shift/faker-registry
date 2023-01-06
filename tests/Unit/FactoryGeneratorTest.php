@@ -54,7 +54,7 @@ class FactoryGeneratorTest extends TestCase
             ['phone_number', 'phoneNumber'],
             ['postal_code', 'postcode'],
             ['postcode', 'postcode'],
-            ['remember_token','uuid'],
+            ['remember_token', 'uuid'],
             ['slug', 'slug'],
             ['ssn', 'ssn'],
             ['street', 'streetName'],
