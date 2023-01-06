@@ -30,6 +30,7 @@ class Registry
             'phone_number' => 'phoneNumber',
             'postal_code' => 'postcode',
             'postcode' => 'postcode',
+            'remember_token' => 'uuid',
             'slug' => 'slug',
             'ssn' => 'ssn',
             'street' => 'streetName',
